@@ -372,12 +372,12 @@
       </action>
     </keybind>
     <!-- End of Volume -->
-    <keybind key="W-d">
+    <keybind key="W-S-d">
       <action name="Execute">
         <command>poweroff</command>
       </action>
     </keybind>
-    <keybind key="W-l">
+    <keybind key="W-S-e">
       <action name="Execute">
         <command>openbox --exit</command>
       </action>
