@@ -227,22 +227,22 @@
         <wrap>no</wrap>
       </action>
     </keybind>
-    <keybind key="W-F1">
+    <keybind key="W-1">
       <action name="GoToDesktop">
         <to>1</to>
       </action>
     </keybind>
-    <keybind key="W-F2">
+    <keybind key="W-2">
       <action name="GoToDesktop">
         <to>2</to>
       </action>
     </keybind>
-    <keybind key="W-F3">
+    <keybind key="W-3">
       <action name="GoToDesktop">
         <to>3</to>
       </action>
     </keybind>
-    <keybind key="W-F4">
+    <keybind key="W-4">
       <action name="GoToDesktop">
         <to>4</to>
       </action>
@@ -317,7 +317,7 @@
       </action>
     </keybind>
     <!-- Keybindings for running applications -->
-    <keybind key="W-e">
+    <keybind key="W-g">
       <action name="Execute">
 	<command>emacs</command>
       </action>
@@ -352,7 +352,7 @@
     <keybind key="W-Down">
       <action name="GrowToEdgeSouth"/>
     </keybind>
-    <keybind key="W-p">
+    <keybind key="W-Up">
       <action name="GrowToEdgeNorth"/>
     </keybind>
     <!-- End of Custom Commands -->
