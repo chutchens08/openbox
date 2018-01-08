@@ -366,7 +366,7 @@
       <action name"Execute">
 	<command>xfce4-screenshooter</command>
       </action>
-    </keybinf>
+    </keybind>
     <!-- End Applications -->
     <!-- Window Snapping -->
     <keybind key="W-Right">
