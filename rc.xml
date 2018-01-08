@@ -363,7 +363,7 @@
       </action>
     </keybind>
     <keybind key="XF86WebCam">
-      <action name"Execute">
+      <action name="Execute">
 	<command>xfce4-screenshooter</command>
       </action>
     </keybind>
@@ -410,7 +410,7 @@
         <command>openbox --exit</command>
       </action>
     </keybind>
-        <keybind key="XF86ScreenSaver">
+    <keybind key="XF86ScreenSaver">
       <action name="Execute">
 	<command>betterlockscreen -l blur</command>
       </action>
