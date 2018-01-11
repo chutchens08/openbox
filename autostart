@@ -17,4 +17,7 @@
 #xfce-mcs-manager &
 
 # Tint2
-tint2
+tint2 &
+
+# Monitors
+~/.screenlayout/openbox.sh
