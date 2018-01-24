@@ -337,11 +337,6 @@
         <command>rofi -show run -padding 400 -width 1600 -font</command>
       </action>
     </keybind>
-    <keybind key="W-q">
-      <action name="Execute">
-	<command>urxvt -e ranger</command>
-      </action>
-    </keybind>
     <keybind key="W-S-h">
       <action name="Execute">
 	<command>urxvt -e qtop</command>
@@ -370,6 +365,11 @@
     <keybind key="W-S-h">
       <action name="Execute">
 	<command>urxvt -e gtop</command>
+      </action>
+    </keybind>
+    <keybind key="W-q">
+      <action name="Execute">
+	<command>qpdfview</command>
       </action>
     </keybind>
     <!-- End Applications -->
